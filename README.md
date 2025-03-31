@@ -7,7 +7,7 @@
 - 3Dメカアクションゲーム、ステート管理、コンポーネント管理
 
 プレイ動画
-- https://drive.google.com/file/d/11sK5ymC9t5_WNoNBNALcmAmM3FBj-A7Y/view?usp=sharing
+- https://drive.google.com/file/d/1dHPx5lDiN8O-dD9f_qO-eEZUE8dgGapF/view?usp=sharing
 
 技術ポイント
 - C++とDirectXで制作
@@ -18,4 +18,4 @@
 WIndows10以降 / visual studio 2022
 
 作品ファイル
--https://drive.google.com/file/d/1GYT9ltzilXhZ5I_w2EiSPybST3aiaqVC/view?usp=sharing
+-https://drive.google.com/file/d/1YFPu49LJTmBQ1opJVB_sfXfju4e6B0Yk/view?usp=sharing
